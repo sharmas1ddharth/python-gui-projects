@@ -1,3 +1,7 @@
+"""
+Author : Siddharth Sharma
+Date : 8/10/2020
+
 import tkinter as Tk
 import os
 from tkinter import *
